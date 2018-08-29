@@ -9,7 +9,7 @@ larabbs开源社区升级版，由于etecity web团队升级维护
 
 
 
-以下为原有项目readme，laradock php7.2安装可能
+以下为原有项目readme，laradock php7.2安装可能会采坑，redis的坑已填 （详情)[https://laravel-china.org/articles/16233/laradock-deployment-larabbs]
 ---------------------------------------------------------------------------------
 
 ## 项目概述

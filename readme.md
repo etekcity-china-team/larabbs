@@ -1,15 +1,16 @@
+基于Laravel的开源社区程序
 
-larabbs开源社区升级版，由于etecity web团队升级维护
+larabbs开源社区升级版，由etecity web团队升级维护
+
 现有开发升级计划
-    - 前台数据接口化
-    - 后台系统升级到 laravel-admin（第一阶段为集成）
-    - 插件化，支持laravel-admin插件安装
-    - 持续支持 laravel TLS
+- 前台数据接口化
+- 后台系统升级到 laravel-admin（第一阶段为集成）
+- 插件化，支持laravel-admin插件安装
+- 持续支持 laravel TLS
     
 
-
-
-以下为原有项目readme，laradock php7.2安装可能会采坑，redis的坑已填 （详情)[https://laravel-china.org/articles/16233/laradock-deployment-larabbs]
+以下为原有项目readme
+laradock php7.2安装可能会采坑，redis的坑已填 [采坑日志](https://laravel-china.org/articles/16233/laradock-deployment-larabbs)
 ---------------------------------------------------------------------------------
 
 ## 项目概述

@@ -1,4 +1,4 @@
-基于Laravel的开源社区程序
+基于Laravel的开源社区程序（开发版，预计20181024 第一个发布beta版）
 
 larabbs开源社区升级版，由etecity web团队升级维护
 

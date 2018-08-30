@@ -2,7 +2,12 @@
 
 larabbs开源社区升级版，由etecity web团队升级维护
 
-现有开发升级计划
+进行中
+- laravel-admin已接入 
+访问/admin   admin admin 即可访问
+原后台地址更正为/oldadmin,后台功能持续迁移中......
+
+开发规划
 - 前台数据接口化
 - 后台系统升级到 laravel-admin（第一阶段为集成）
 - 插件化，支持laravel-admin插件安装
